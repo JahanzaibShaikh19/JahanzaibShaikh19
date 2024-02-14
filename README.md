@@ -7,7 +7,7 @@
 
 - 🌱 I’m done with **REACT || MONGO || EXPRESS || NEXT || PYHTON || JAVA || C++**
 
-- 💡  I'm currently learning **RUST**
+- 💡  I'm currently learning **RUST || DSA**
 
 - 👯 I’m looking to collaborate on **Full-Stack-Dev**
 
