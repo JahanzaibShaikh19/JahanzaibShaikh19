@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN (projects-and-payments)**
 
-- 🌱 I’m currently learning **REACT || MONGO || EXPRESS || NEXT || PYHTON**
+- 🌱 I’m done with **REACT || MONGO || EXPRESS || NEXT || PYHTON || JAVA || C++**
 
 - 👯 I’m looking to collaborate on **Full-Stack-Dev**
 
