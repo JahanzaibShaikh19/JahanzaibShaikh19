@@ -7,6 +7,8 @@
 
 - 🌱 I’m done with **REACT || MONGO || EXPRESS || NEXT || PYHTON || JAVA || C++**
 
+- 💡  I'm currently learning **RUST**
+
 - 👯 I’m looking to collaborate on **Full-Stack-Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JahanzaibShaikh19?tab=repositories](https://github.com/JahanzaibShaikh19?tab=repositories)
