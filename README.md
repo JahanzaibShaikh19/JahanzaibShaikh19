@@ -9,7 +9,7 @@
 
 - 💡  I'm currently learning **RUST || DSA & Algorithms**
 
-- 👯 I’m looking to collaborate on **Full-Stack-Dev**
+- 👯 I’m looking to collaborate on **Full-Stack-Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JahanzaibShaikh19?tab=repositories](https://github.com/JahanzaibShaikh19?tab=repositories)
 
