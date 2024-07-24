@@ -28,6 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahanzaibshaikh19&show_icons=true&locale=en&layout=compact" alt="jahanzaibshaikh19" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanzaibshaikh19&label=Profile%20views&color=0e75b6&style=flat" alt="jahanzaibshaikh19" /> </p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanzaibshaikh19&" alt="jahanzaibshaikh19" /></p>
