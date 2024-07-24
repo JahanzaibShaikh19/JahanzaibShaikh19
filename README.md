@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahanzaibshaikh19" alt="jahanzaibshaikh19" /></a> </p>
 
-- 🔭 I’m currently working on **MERN (projects-and-payments)**
+- 🔭 I’m currently working on **MERN Projects**
 
 - 🌱 I’m done with **REACT || MONGO || EXPRESS || NEXT || PYHTON || JAVA || C++**
 
