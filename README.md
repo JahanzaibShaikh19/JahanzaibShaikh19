@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Jahanzaib Shaikh</h1>  
-<h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>  
+<h3 align="center">🚀 Co-Founder @ Hyperlogic Studio | Full Stack Developer | Tech Innovator</h3>  
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -10,12 +10,17 @@
 ---
 
 ### 💡 About Me  
-- 🔭 Currently working on **MERN Stack Projects**  
-- 🎯 Skilled in **React, MongoDB, Express, Next.js, Python, Java, C++**  
-- 📚 Learning **Rust, DSA & Advanced Algorithms**  
-- 🤝 Open to collaborating on **Full-Stack Development & AI-Powered Solutions**  
-- 💻 Explore my work: [GitHub Repositories](https://github.com/JahanzaibShaikh19?tab=repositories)  
-- 📫 Reach me at **jahanzaibshaikh16@gmail.com**
+- 🏢 **Co-Founder of [Hyperlogic Studio](https://www.hyperlogic.studio/)**  
+- 💻 We build **scalable digital products** that stand out  
+- 🛠️ Services include:  
+  - Custom **Web & Mobile App Development**  
+  - **Figma-Driven UI/UX Design**  
+  - **AI-Powered Solutions** (automation, integrations, chatbots)  
+  - **Blockchain Development** (smart contracts, dApps, NFT marketplaces)  
+  - **API Development & Integrations**  
+  - Cloud Deployment & DevOps  
+- 🤝 Always open for strategic collaborations & innovative product ideas  
+- 📫 Reach me at **jahanzaib@hyperlogic.studio**
 
 ---
 
@@ -33,7 +38,7 @@
 
 ### 🛠️ Tech Stack  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,java,python,cpp,c,mongodb,mysql,sqlite,git,figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,nodejs,express,java,python,cpp,c,mongodb,mysql,sqlite,git,figma,ps,ai,solidity" />
 </p>
 
 ---
@@ -48,4 +53,4 @@
 </p>
 
 ---
-💬 *"Code is like humor. When you have to explain it, it’s bad."*
+💬 *"Great products aren't built overnight — they're engineered with vision, precision, and persistence."*
