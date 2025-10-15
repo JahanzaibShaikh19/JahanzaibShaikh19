@@ -10,7 +10,7 @@
 ---
 
 ### 💡 About Me  
-- 🏢 **Co-Founder of [Hyperlogic Studio](https://www.hyperlogic.studio/)**  
+- 🏢 **Co-Founder of [Hyperlogic Studio](https://www.hyperlogic.studio/)**     
 - 💻 We build **scalable digital products** that stand out  
 - 🛠️ Services include:  
   - Custom **Web & Mobile App Development**  
