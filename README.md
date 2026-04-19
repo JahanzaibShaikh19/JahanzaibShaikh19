@@ -24,27 +24,35 @@
  
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
  
-```javascript
-const jahanzaib = {
-  role      : "Co-Founder @ Hyperlogic Studio",
+```typescript
+const jahanzaib: Engineer = {
+  identity  : "Full Stack Engineer · System Architect · Co-Founder",
+  studio    : "Hyperlogic Studio 🏢",
   location  : "Pakistan 🇵🇰",
-  focus     : ["Web Apps", "Mobile", "AI", "Blockchain"],
+  stack     : {
+    frontend  : ["Next.js", "React", "Flutter", "Tailwind CSS"],
+    backend   : ["Node.js", "Express", "Firebase", "Supabase"],
+    languages : ["TypeScript", "Dart", "Python", "Solidity"],
+    infra     : ["GCP", "Docker", "CI/CD", "REST & WebSocket APIs"],
+  },
+  superpower: "Translating complex requirements → production-grade systems",
   email     : "jahanzaib@hyperlogic.studio",
   website   : "hyperlogic.studio",
-  openTo    : "Collabs & Innovative Ideas 🤝"
+  openTo    : "Strategic Collabs & Bold Ideas 🤝",
 };
 ```
  
 <br/>
  
-🏢 &nbsp; Co-Founder of **[Hyperlogic Studio](https://www.hyperlogic.studio/)**  
-💻 &nbsp; Building **scalable digital products** that stand out  
-🤖 &nbsp; Working on **AI-Powered Automation & Integrations**  
-⛓️ &nbsp; Deep in **Blockchain** — Smart Contracts, dApps, NFT Marketplaces  
-🎨 &nbsp; Love **Figma-Driven UI/UX** that wows users  
-☁️ &nbsp; Cloud Deployment & DevOps enthusiast  
-🤝 &nbsp; Always open to **strategic collaborations**  
-📫 &nbsp; Hit me up: **jahanzaib@hyperlogic.studio**
+🏢 &nbsp; Co-Founder of **[Hyperlogic Studio](https://www.hyperlogic.studio/)** — building digital products that scale  
+⚙️ &nbsp; **Full Stack Engineer** — architecting end-to-end systems from DB schema to pixel-perfect UI  
+🧩 &nbsp; Specialised in **microservice architecture**, real-time data pipelines & event-driven design  
+🤖 &nbsp; Engineering **AI-Powered Automation** — LLM integrations, RAG pipelines & intelligent agents  
+⛓️ &nbsp; Deep in **Blockchain** — EVM smart contracts, dApps, token standards & NFT ecosystems  
+🎨 &nbsp; Obsessed with **Figma-to-Code fidelity** — design systems that are both beautiful & maintainable  
+☁️ &nbsp; **Cloud-native mindset** — CI/CD, containerisation, Firebase, GCP & Supabase at scale  
+🤝 &nbsp; Open to **high-impact collaborations** with builders who think long-term  
+📫 &nbsp; Reach me: **jahanzaib@hyperlogic.studio**
  
 <br clear="right"/>
  
@@ -53,7 +61,7 @@ const jahanzaib = {
 ### 🏆 GitHub Trophies
  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jahanzaibshaikh19&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jahanzaibshaikh19&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </p>
  
 ---
@@ -150,11 +158,11 @@ const jahanzaib = {
  
 <div align="center">
  
-| 🌐 Web & Mobile Apps | 🎨 UI/UX Design | 🤖 AI Solutions |
-|:---:|:---:|:---:|
-| Scalable full-stack products | Figma-driven interfaces | Automation & Chatbots |
-| **⛓️ Blockchain Dev** | **🔌 API Integrations** | **☁️ Cloud & DevOps** |
-| Smart Contracts & dApps | Custom API Development | Deployment & Scaling |
+|  🌐 Web & Mobile Apps | 🎨 UI/UX & Design Systems | 🤖 AI & Intelligent Automation |
+|:---|:---|:---|
+| Full-stack Next.js & Flutter apps with SSR, ISR & real-time sync | Figma-to-code pipelines with reusable component libraries | LLM integrations, RAG pipelines, AI agents & workflow automation |
+| **⛓️ Blockchain & Web3** | **🔌 API & Backend Engineering** | **☁️ Cloud Infrastructure & DevOps** |
+| EVM smart contracts (Solidity), dApps, token standards (ERC-20/721/1155) & NFT marketplaces | RESTful & GraphQL APIs, OAuth 2.0 flows, WebSocket & third-party integrations | Firebase · Supabase · GCP · Docker · CI/CD pipelines & zero-downtime deployments |
  
 </div>
  
