@@ -1,5 +1,5 @@
 <div align="center">
- 
+   
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jahanzaib%20Shaikh&fontSize=42&fontColor=00ff88&animation=twinkling&fontAlignY=32&desc=Co-Founder%20%40%20Hyperlogic%20Studio%20%7C%20Full%20Stack%20Engineer%20%7C%20Tech%20Innovator&descAlignY=54&descSize=16&descColor=ff8c00"/>
  
